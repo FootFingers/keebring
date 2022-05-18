@@ -1,5 +1,6 @@
 # keebring
-Source files for FFKeebs switch + diode bender keyring.
+Source files for FFKeebs switch + diode bender keyring. 
 
-![blue](/images/keebring-blue.jpg)
+See image below for example. 
+
 ![purple](/images/keebring-purp.jpg)
