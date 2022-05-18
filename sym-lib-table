@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SofleKeyboard)(type Legacy)(uri C:/Users/Connor/Downloads/SofleKeyboard-master/SofleKeyboard-master/Sofle_RGB/PCB/SofleKeyboard.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri C:/Users/Connor/Downloads/keebio-components-master/keebio-components-master/keebio.lib)(options "")(descr ""))
+)
